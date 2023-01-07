@@ -2,7 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/ssstar.svg)](https://crates.io/crates/ssstar)
 [![Docs.rs](https://docs.rs/ssstar/badge.svg)](https://docs.rs/ssstar)
-![CI](https://github.com/elastio/ssstar/workflows/CI/badge.svg)](https://github.com/elastio/ssstar/actions)
+[![CI](https://github.com/elastio/ssstar/workflows/CI/badge.svg)](https://github.com/elastio/ssstar/actions)
 
 Taken and modified from [mrfutils-rs](https://github.com/lukerhoads/mrfutils-rs) which used it to walk lined `.txt` files from a specified location in the file.
 
