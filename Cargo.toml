@@ -1,0 +1,20 @@
+[package]
+name = "filewalker"
+version = "0.0.1"
+edition = "2021"
+authors = ["Luke <me@lukerhoads.com>"]
+description = "A utility for walking lined files under certain conditions."
+repository = "https://github.com/lukerhoads/filewalker"
+license = "MIT"
+keywords = ["files", "utility"]
+categories = ["libraries", "filesystem"]
+homepage = "https://github.com/lukerhoads/filewalker"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0"
+rev_buf_reader = "0.3.0"
+once_cell = "1.17.0"
+derive_builder = "0.12.0"
+thiserror = "1.0"
