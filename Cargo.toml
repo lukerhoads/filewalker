@@ -9,7 +9,9 @@ license = "MIT"
 keywords = ["files", "utility"]
 categories = ["libraries", "filesystem"]
 homepage = "https://github.com/lukerhoads/filewalker"
-
+exclude = [
+    "testfiles/*"
+]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
